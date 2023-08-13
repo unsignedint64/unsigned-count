@@ -13,17 +13,18 @@ This project demonstrates a counter that crashes from a unsigned int.
 
 ## API Reference
 
-#### replaceData
+#### count
 
 ```cpp
-  count(num, MSG);
+  count();
 ```
 
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `num` | `INT32` | The numer to count to |
-| `MSG` | `string` | The message to show on startup |
 
+#### I_WANT_TO_CWASH_AND_OwO_DIE
+
+```cpp
+I_WANT_TO_CWASH_AND_OwO_DIE()
+```
 
 
 ## Run Locally
