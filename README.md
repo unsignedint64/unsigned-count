@@ -50,7 +50,7 @@ Run the Executable
 ## Usage/Examples
 
 ```bash
-    ./x64/Debug/auth.exe
+    ./x64/Debug/app.exe
 ```
 
 
